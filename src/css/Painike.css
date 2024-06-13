@@ -1,0 +1,33 @@
+.painike-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.painike-kohta {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.painike-nappi {
+  background-color: #ffffff;
+  color: #4e4e50;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.button {
+  background-color: #92b92f;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 5px;
+}
